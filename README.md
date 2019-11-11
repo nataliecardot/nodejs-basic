@@ -1,4 +1,4 @@
-# nodejs-basic
+# nodejs-server-basic
 
 This is a super simple practice Node.js setup. Using Node's `fs` and `http` core modules, it creates a server and displays HTML from the index.html file.
 
